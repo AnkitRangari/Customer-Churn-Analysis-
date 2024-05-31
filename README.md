@@ -11,18 +11,22 @@ The objective is to predict customer churn based on various features such as con
 ## 🎯Key Goals:
 
 **Churn Rate Understanding:**
-Investigate the overall churn rate and its distribution across different customer segments (e.g., age, gender, service category).
+
+- Investigate the overall churn rate and its distribution across different customer segments (e.g., age, gender, service category).
 
 **Demographic Insights:**
-Explore the impact of gender and age on churn behavior.
-Understand which demographic groups are more likely to churn.
+
+- Explore the impact of gender and age on churn behavior.
+- Understand which demographic groups are more likely to churn.
 
 **Revenue Impact:**
-Assess the financial implications of churn.
-Analyze subscription sales and recurring revenue trends.
+
+- Assess the financial implications of churn.
+- Analyze subscription sales and recurring revenue trends.
 
 **Service Optimization:**
-Identify areas where service improvements can reduce churn.
+
+- Identify areas where service improvements can reduce churn.
 
 ## 🔧Tool Used 
 Power Bi,
