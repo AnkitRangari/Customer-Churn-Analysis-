@@ -33,8 +33,7 @@ Power Bi,
 Google Sheet 
 
 ## 📈Dashboard 
-![img](https://github.com/AnkitRangari/Customer-Churn-Analysis-/blob/main/Screenshot%202024-05-31%20143737.png)
-
+![img](https://github.com/AnkitRangari/Customer-Churn-Analysis-/blob/main/Dashboard)
 ## 📊 **Dashboard Highlights:**
 
 1. **Churn by Gender:**
